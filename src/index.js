@@ -1,5 +1,5 @@
 import exp from "express";
-import proceduresRoutes from './routes/procedures.routes.js';
+import proceduresRoutes from './routes/validation.routes.js';
 import TeacherCrudRouter from './routes/teacher.routes.js';
 const app = exp();
 app.listen(3000);
