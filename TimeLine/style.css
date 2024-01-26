@@ -1,0 +1,15 @@
+
+.gap{
+    gap: 4rem;
+}
+.line{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,107,1) 49%, rgba(0,212,255,1) 100%);
+    position: absolute;
+    left: 50%;
+    height: 100%;
+    width: .3rem;
+}
+.bgbody{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(71,51,223,1) 25%, rgba(123,50,231,1) 50%, rgba(149,45,253,1) 75%, rgba(231,48,240,1) 100%);
+    background-repeat: no-repeat;
+}
